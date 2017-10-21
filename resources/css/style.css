@@ -1,4 +1,4 @@
-* {
+body {
   text-align: center;
   font-family: Helvetica;
 }
@@ -37,4 +37,11 @@ h3 {
 
 p {
   font-size: 14px;
+}
+
+#footer {
+  font-size 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
